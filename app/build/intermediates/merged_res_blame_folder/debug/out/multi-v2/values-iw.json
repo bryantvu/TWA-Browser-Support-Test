@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Downloads\\TwaBrowserSupportTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-iw\\values-iw.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bvu\\.gradle\\caches\\transforms-3\\e0d2f8ad044427eee984d921896a19f7\\transformed\\core-1.1.0\\res\\values-iw\\values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "454",
+                        "endColumns": "100",
+                        "endOffsets": "550"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bvu\\.gradle\\caches\\transforms-3\\64a961fa835b6acb9f584b959be6497a\\transformed\\browser-1.4.0\\res\\values-iw\\values-iw.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,146,246,352",
+                        "endColumns": "90,99,105,101",
+                        "endOffsets": "141,241,347,449"
+                    }
+                }
+            ]
+        }
+    ]
+}
