@@ -42,7 +42,7 @@ If you want to test for additional browsers, you will need to make two changes.
 2. Add a new button in [`activity_launch_twa.xml`](https://github.com/bryantvu/TWA-Browser-Support-Test/blob/master/app/src/main/res/layout/activity_launch_twa.xml) similar to the one for [`Launch Chrome`](https://github.com/bryantvu/TWA-Browser-Support-Test/blob/377a96f5d15ca453cc4deed923dad289aa219273/app/src/main/res/layout/activity_launch_twa.xml#L60) and point it to your function in `LaunchTwaActivity.java`.
 
 ### Change Host URL
-Changing the [current target website](https://pictroom.com) is **NOT** recommended, as it can be a complicated process. In order for the navigation bar to hide when loading a website, the [assetlinks.json](https://developers.google.com/digital-asset-links/v1/getting-started) has to be configured and the SHA256 of the keystore must match. Configuring the assetlinks.json requires developer access to the target website.
+Changing the [current target website](https://pictroom.com) can be a complicated process. In order for the navigation bar to hide when loading a website, the [assetlinks.json](https://developers.google.com/digital-asset-links/v1/getting-started) has to be configured and the SHA256 of the keystore must match. Configuring the assetlinks.json requires developer access to the target website.
 
 ## License
 
