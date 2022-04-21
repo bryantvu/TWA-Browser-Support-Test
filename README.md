@@ -13,6 +13,8 @@ The purpose of this Android project is to demonstrate how to test whether a spec
 ## Demo
 For a quick and simple test, the `TwaBrowserSupportTest.apk` has been included in the root directory of this project.
 
+https://user-images.githubusercontent.com/40374800/164344799-04bfa630-fa45-4be2-a45f-3a22602bc46d.mp4
+
 ## Results
 Based on the test results, it appears that most modern browsers support TWA and are able to hide the navigation bar when the assetlinks.json is properly configured on the website and the SHA256 matches on the keystore.
 
